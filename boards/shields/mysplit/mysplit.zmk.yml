@@ -1,0 +1,11 @@
+file_format: "1"
+id: mysplit
+name: MySplit
+type: shield
+url: ""
+requires: [pro_micro]
+siblings:
+  - mysplit_left
+  - mysplit_right
+features:
+  - keys
